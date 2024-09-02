@@ -9,11 +9,11 @@ export const Profile = () => {
                 <p>
                 <h2>Full Stack Developer | ERP Technical Support Specialist</h2>
 
-                With over 3 years of experience as a Full Stack Developer, I specialize in building robust,<br/>
-                 scalable web applications using the MERN stack. My expertise extends to supporting users on ERP systems,<br/>
-                 where I ensure seamless operations and troubleshoot technical issues. Whether it's developing innovative <br/>
-                 solutions from scratch or optimizing existing systems, I bring a blend of technical proficiency and problem-solving<br/>
-                  skills to every project. I'm passionate about crafting efficient, user-friendly applications and delivering top-notch<br/> 
+                With over 3 years of experience as a Full Stack Developer, I specialize in building robust,
+                 scalable web applications using the MERN stack. My expertise extends to supporting users on ERP systems,
+                 where I ensure seamless operations and troubleshoot technical issues. Whether it's developing innovative 
+                 solutions from scratch or optimizing existing systems, I bring a blend of technical proficiency and problem-solving
+                  skills to every project. I'm passionate about crafting efficient, user-friendly applications and delivering top-notch 
                   ERP support that enhances business processes.
                 </p>
                 <div className="social">
