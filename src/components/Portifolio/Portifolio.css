@@ -1,0 +1,21 @@
+.portifolio {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    gap: 20px;
+}
+
+.project{
+    height: 100px;
+    width: 20%;
+    background-color: brown;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h3{
+    text-align: center;
+}

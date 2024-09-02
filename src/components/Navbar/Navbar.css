@@ -1,0 +1,46 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-around;
+    gap: 50px;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    right: 0;
+    z-index: 99;
+    box-shadow: 10px 10px 10px rgb(109, 218, 226);
+    
+}
+
+.nav ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    list-style-type: none;
+}
+
+.logo{
+    padding: 0;
+    margin: 0;
+    color:rgb(161, 241, 247);
+}
+
+.logo span {
+    color:aqua;
+    box-shadow: 2px 5px 2px white;
+}
+
+.link{
+color:whitesmoke;
+font-size: 20px;
+font-weight: 300;
+font-family: sans-serif;
+}
+.links a{
+    text-decoration: none;
+    scroll-behavior: smooth;
+    transition-duration: 1s;
+}
