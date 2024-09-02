@@ -6,10 +6,16 @@ export const Profile = () => {
             <div className="bio">
                 <h3>Hi, There</h3>
                 <p className='introduction'>I'm <strong className='name'>Pius Karanja Gathuita</strong><br></br></p>
-                <p className='summary'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio ipsam enim atque fugiat tenetur maxime fuga 
-                    id odit unde doloribus eveniet cupiditate, cumque deleniti repellendus. Nulla, officiis minus. Consectetur, ipsam.</p>
-                    <p className='summary'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio ipsam enim atque fugiat tenetur maxime fuga 
-                    id odit unde doloribus eveniet cupiditate, cumque deleniti repellendus. Nulla, officiis minus. Consectetur, ipsam.</p>
+                <p>
+                <h2>Full Stack Developer | ERP Technical Support Specialist</h2>
+
+                With over 3 years of experience as a Full Stack Developer, I specialize in building robust,<br/>
+                 scalable web applications using the MERN stack. My expertise extends to supporting users on ERP systems,<br/>
+                 where I ensure seamless operations and troubleshoot technical issues. Whether it's developing innovative <br/>
+                 solutions from scratch or optimizing existing systems, I bring a blend of technical proficiency and problem-solving<br/>
+                  skills to every project. I'm passionate about crafting efficient, user-friendly applications and delivering top-notch<br/> 
+                  ERP support that enhances business processes.
+                </p>
                 <div className="social">
                     <ul>
                         <li className="icons">FB</li>
